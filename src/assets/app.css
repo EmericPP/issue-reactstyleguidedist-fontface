@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'stabillomedium';
+  src: url('/src/assets/stabillo_medium-webfont.woff2') format('woff2'),
+  url('/src/assets/stabillo_medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.app {
+  background-color: lightblue;
+  font-family: 'stabillomedium', serif;
+}
+
+
